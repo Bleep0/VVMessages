@@ -1,0 +1,5 @@
+name: VVMessages
+version: ${project.version}
+main: dev.bleepo.vvmessages.VVMessages
+api-version: 1.16
+description: Messages for vv
